@@ -56,6 +56,9 @@ figure{
     justify-content: center;
 }
 
+img{
+    width: 140px;
+}
 .gallery figure > p{
     border: solid black 2px;
     margin: 2px;
